@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/Ayushi1245/dsa/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/Ayushi1245/dsa/tree/master/0392-is-subsequence) |
+| [0520-detect-capital](https://github.com/Ayushi1245/dsa/tree/master/0520-detect-capital) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayushi1245/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
