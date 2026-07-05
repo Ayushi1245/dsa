@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0954-array-of-doubled-pairs](https://github.com/Ayushi1245/dsa/tree/master/0954-array-of-doubled-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayushi1245/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
@@ -28,8 +29,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushi1245/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0954-array-of-doubled-pairs](https://github.com/Ayushi1245/dsa/tree/master/0954-array-of-doubled-pairs) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushi1245/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Greedy
+|  |
+| ------- |
+| [0954-array-of-doubled-pairs](https://github.com/Ayushi1245/dsa/tree/master/0954-array-of-doubled-pairs) |
+## Sorting
+|  |
+| ------- |
+| [0954-array-of-doubled-pairs](https://github.com/Ayushi1245/dsa/tree/master/0954-array-of-doubled-pairs) |
 <!---LeetCode Topics End-->
