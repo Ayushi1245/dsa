@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushi1245/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Ayushi1245/dsa/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Ayushi1245/dsa/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Ayushi1245/dsa/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/Ayushi1245/dsa/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Ayushi1245/dsa/tree/master/0520-detect-capital) |
@@ -50,9 +51,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ayushi1245/dsa/tree/master/0067-add-binary) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ayushi1245/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ayushi1245/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ayushi1245/dsa/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ayushi1245/dsa/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
