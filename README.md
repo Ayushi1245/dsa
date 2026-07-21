@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ayushi1245/dsa/tree/master/0011-container-with-most-water) |
 | [0954-array-of-doubled-pairs](https://github.com/Ayushi1245/dsa/tree/master/0954-array-of-doubled-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayushi1245/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ayushi1245/dsa/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/Ayushi1245/dsa/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/Ayushi1245/dsa/tree/master/0917-reverse-only-letters) |
 ## Hash Table
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ayushi1245/dsa/tree/master/0011-container-with-most-water) |
 | [0954-array-of-doubled-pairs](https://github.com/Ayushi1245/dsa/tree/master/0954-array-of-doubled-pairs) |
 ## Sorting
 |  |
