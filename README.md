@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ayushi1245/dsa/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Ayushi1245/dsa/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Ayushi1245/dsa/tree/master/0072-edit-distance) |
+| [0205-isomorphic-strings](https://github.com/Ayushi1245/dsa/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/Ayushi1245/dsa/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Ayushi1245/dsa/tree/master/0520-detect-capital) |
 | [0917-reverse-only-letters](https://github.com/Ayushi1245/dsa/tree/master/0917-reverse-only-letters) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushi1245/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0205-isomorphic-strings](https://github.com/Ayushi1245/dsa/tree/master/0205-isomorphic-strings) |
 | [0954-array-of-doubled-pairs](https://github.com/Ayushi1245/dsa/tree/master/0954-array-of-doubled-pairs) |
 ## Backtracking
 |  |
