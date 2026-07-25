@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ayushi1245/dsa/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Ayushi1245/dsa/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Ayushi1245/dsa/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/Ayushi1245/dsa/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Ayushi1245/dsa/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Ayushi1245/dsa/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Ayushi1245/dsa/tree/master/0392-is-subsequence) |
@@ -18,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Ayushi1245/dsa/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/Ayushi1245/dsa/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/Ayushi1245/dsa/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayushi1245/dsa/tree/master/0011-container-with-most-water) |
+| [0139-word-break](https://github.com/Ayushi1245/dsa/tree/master/0139-word-break) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ayushi1245/dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0954-array-of-doubled-pairs](https://github.com/Ayushi1245/dsa/tree/master/0954-array-of-doubled-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayushi1245/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushi1245/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/Ayushi1245/dsa/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Ayushi1245/dsa/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Ayushi1245/dsa/tree/master/0383-ransom-note) |
 | [0954-array-of-doubled-pairs](https://github.com/Ayushi1245/dsa/tree/master/0954-array-of-doubled-pairs) |
@@ -86,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Ayushi1245/dsa/tree/master/0374-guess-number-higher-or-lower) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ayushi1245/dsa/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ayushi1245/dsa/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
