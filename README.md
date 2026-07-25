@@ -76,9 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Ayushi1245/dsa/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ayushi1245/dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Ayushi1245/dsa/tree/master/0383-ransom-note) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Ayushi1245/dsa/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
