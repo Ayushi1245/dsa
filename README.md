@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayushi1245/dsa/tree/master/0011-container-with-most-water) |
+| [0128-longest-consecutive-sequence](https://github.com/Ayushi1245/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ayushi1245/dsa/tree/master/0139-word-break) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ayushi1245/dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0954-array-of-doubled-pairs](https://github.com/Ayushi1245/dsa/tree/master/0954-array-of-doubled-pairs) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushi1245/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/Ayushi1245/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ayushi1245/dsa/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Ayushi1245/dsa/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Ayushi1245/dsa/tree/master/0383-ransom-note) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayushi1245/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Ayushi1245/dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ayushi1245/dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
