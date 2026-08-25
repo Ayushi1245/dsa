@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayushi1245/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Ayushi1245/dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayushi1245/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ayushi1245/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ayushi1245/dsa/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Ayushi1245/dsa/tree/master/0383-ransom-note) |
 | [0954-array-of-doubled-pairs](https://github.com/Ayushi1245/dsa/tree/master/0954-array-of-doubled-pairs) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ayushi1245/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Backtracking
 |  |
 | ------- |
