@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Ayushi1245/dsa/tree/master/0072-edit-distance) |
+| [0119-pascals-triangle-ii](https://github.com/Ayushi1245/dsa/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/Ayushi1245/dsa/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/Ayushi1245/dsa/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayushi1245/dsa/tree/master/0011-container-with-most-water) |
+| [0119-pascals-triangle-ii](https://github.com/Ayushi1245/dsa/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayushi1245/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ayushi1245/dsa/tree/master/0139-word-break) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ayushi1245/dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
