@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushi1245/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0113-path-sum-ii](https://github.com/Ayushi1245/dsa/tree/master/0113-path-sum-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -122,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ayushi1245/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Ayushi1245/dsa/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Ayushi1245/dsa/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Ayushi1245/dsa/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
