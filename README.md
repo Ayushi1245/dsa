@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Ayushi1245/dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayushi1245/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayushi1245/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/Ayushi1245/dsa/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ayushi1245/dsa/tree/master/0113-path-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Ayushi1245/dsa/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
